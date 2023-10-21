@@ -70,7 +70,14 @@ To use the MultiPDF Chat App, follow these steps:
 
 ## screenshots
 -------
-image.png
-image.png
-image.png
-image.png
+category of question = explainatory
+<img width="1097" alt="image" src="https://github.com/shivam-gupta12/Langchain-pdf-browser/assets/109721120/6f22109a-bcce-4860-8592-f2c646140eee">
+
+category of question = one word answer
+<img width="1097" alt="image" src="https://github.com/shivam-gupta12/Langchain-pdf-browser/assets/109721120/300496e9-fc52-46d5-bd6a-d1ad879caa15">
+
+category of question = true/false
+<img width="1097" alt="image" src="https://github.com/shivam-gupta12/Langchain-pdf-browser/assets/109721120/dc3ccbd8-ab55-4cde-9376-fe8f69c4266d">
+
+category of question = MCQ (multiple choices)
+<img width="1097" alt="image" src="https://github.com/shivam-gupta12/Langchain-pdf-browser/assets/109721120/73cadbe3-5f3e-4b69-aa90-5a5972afb5b6">
