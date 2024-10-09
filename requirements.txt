@@ -3,6 +3,7 @@ PyPDF2==3.0.1
 python-dotenv==1.0.0
 streamlit==1.18.1
 InstructorEmbedding
+distutils
 google.generativeai
 # uncomment to use huggingface llms
 # huggingface-hub==0.14.1
