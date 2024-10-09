@@ -4,7 +4,7 @@ import os
 import google.generativeai as genai
 
 # Configure API Key for Google Generative AI
-genai.configure(api_key="AIzaSyCzRrKO-krrIN0YfSgmj_MQJ9nqnXLFLdI")
+genai.configure(api_key=os.environ["API_KEY"])
 
 # Configuration for file upload
 UPLOAD_FOLDER = 'uploads'
