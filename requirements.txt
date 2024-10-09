@@ -4,6 +4,7 @@ python-dotenv==1.0.0
 streamlit==1.18.1
 InstructorEmbedding
 google.generativeai==0.8.3 
+setuptools==75.1.0
 # uncomment to use huggingface llms
 # huggingface-hub==0.14.1
 
